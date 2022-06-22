@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native'
+/*import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
 const Logo = () => {
@@ -17,3 +17,4 @@ const styles = StyleSheet.create({
         fontSize : 60
     }
 })
+*/
